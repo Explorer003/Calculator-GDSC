@@ -38,16 +38,16 @@ input{
     
     font-size: px;
     width:8vh;
-    height: 8vh;
+    height: 7.5vh;
 
     border-radius: 10px;
     border:none;
     box-shadow: -5px -10px 7px #ffffff, 5px 10px 12px rgba(0,0,0,.16);
     background-color: #ecf0f3;
     font-family:sans-serif;
-    font-size: 3vh;
+    font-size: 3.5vh;
     font-weight:300;
-    margin: 3vw;
+    margin: 3.5vw;
 
 }
 input:hover{
@@ -58,6 +58,7 @@ input:hover{
 
 h1{
     color: black;
+    
 }
 
 body {
